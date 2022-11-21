@@ -1,5 +1,7 @@
-/A.class
 /Assignment/
+/Practise/
+/javapratice/
+/A.class
 /B.class
 /Bank.class
 /Child.class
@@ -7,7 +9,6 @@
 /Oops.class
 /Parent.class
 /Patterns.class
-/Practise/
 /SBI.class
 /SingleLevelInheritance.class
 /Single_inheritance.class
@@ -32,7 +33,6 @@
 /humanss.class
 /instancevariable.class
 /instanceveriable.class
-/javapratice/
 /matahamatics.class
 /methodeoverloading.class
 /methodoveridding.class
@@ -51,3 +51,9 @@
 /thisreferstoclassconstructor.class
 /thisreferstoclassmethod.class
 /whileloop.class
+/Core_java_project/
+/BankAccount.class
+/BankCode.class
+/BankTransaction.class
+/SavingAccount.class
+/BankingProject/
